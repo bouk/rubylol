@@ -31,6 +31,8 @@ class Songtext
         "I'm"
       when "ill"
         "I'll"
+      when "ive"
+        "I've"
       else
         word
       end
